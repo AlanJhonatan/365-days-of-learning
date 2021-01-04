@@ -31,7 +31,7 @@
 <ol>
   <li>Programming Languages</li>
   <ul>
-    <li>Python</li>
+    <li><a>Python</a></li>
     <li>Javascript (ES6+)</li>
   </ul>
   <li>Data Science</li>
