@@ -11,7 +11,7 @@
 <p>Eu separei em 3 atividades: <strong>aprender, aprimorar e experenciar.</strong></p> 
 <o>Então todo conteúdo que envolva essas atividades <strong>é totalmente válido.</strong></p>
 
-## Aprender
+## Assuntos
 
 <ol>
   <li>Programming Languages</li>
@@ -20,29 +20,16 @@
     <li>Elixir</li>
     <li>R</li>
     <li>Rust</li>
+    <li><a href="#">Python</a></li>
+    <li>Javascript (ES6+)</li>
   </ul>
   <li>Statistical Math</li>
   <li>Economy and Investment</li>
   <li>Software Architecture</li>
-</ol>
-
-## Aprimorar
-
-<ol>
-  <li>Programming Languages</li>
-  <ul>
-    <li><a href="#">Python</a></li>
-    <li>Javascript (ES6+)</li>
-  </ul>
-  <li>Data Science</li>
-</ol>
-
-## Experenciar
-
-<ol>
   <li>Database</li>
   <ul>
     <li>Mongo DB</li>
     <li>Redis</li>
   </ul>
+  <li>Data Science</li>
 </ol>
