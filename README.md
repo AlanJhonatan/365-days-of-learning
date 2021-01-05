@@ -11,7 +11,7 @@
 <p>Eu separei em 3 atividades: <strong>aprender, aprimorar e experenciar.</strong></p> 
 <o>Então todo conteúdo que envolva essas atividades <strong>é totalmente válido.</strong></p>
 
-## Assuntos
+## Assuntos para Estudo
 
 <ol>
   <li>Programming Languages</li>
